@@ -9,6 +9,7 @@ body {
 
 img {
     border-radius: 3%;
+    height: auto;
 }
 
 .recipes{
