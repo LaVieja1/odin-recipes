@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(179, 215, 230);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+}
+
+img {
+    border-radius: 3%;
+}
+
+.recipes{
+    list-style-type: none;
+}
+
+.text {
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header {
+    text-align: center;
+}
